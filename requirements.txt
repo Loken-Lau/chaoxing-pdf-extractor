@@ -1,0 +1,6 @@
+selenium
+requests
+img2pdf
+Pillow
+beautifulsoup4
+webdriver-manager

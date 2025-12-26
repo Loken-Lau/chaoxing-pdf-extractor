@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Project outputs
+downloads/
+*.pdf
+
+# Browser Drivers
+chromedriver.exe
+msedgedriver.exe
+geckodriver.exe
+
+# Debug files
+debug_*.html
+debug_*.py
+*.log
+
+# IDE
+.vscode/
+.idea/
